@@ -3,8 +3,11 @@ These are some Mechanism commands.
 # Is this about?
 This repository contains languages ``` Javascript, Python ```
 these commands were developed to maintain a secure server, if you notice any errors feel free to contact me.
-#ChatBot?
+# ChatBot?
 This is just the ChatBot code, it is not added.
 Maybe in the future it will be added.
-#Changelogs
+# Changelogs
 Some commands that make up the bot will be added, some are systems.
+- Possibly some things will be added 
+
+- the language of the ChatBot will be changed to English.

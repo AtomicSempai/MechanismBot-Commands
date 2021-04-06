@@ -21,3 +21,5 @@ Some commands that make up the bot will be added, some are systems.
 - Possibly some things will be added 
 
 - the language of the ChatBot will be changed to English.
+# Different codes?
+Mainly Mechanism was created in the `Discord bot designer app`

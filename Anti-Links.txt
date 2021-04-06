@@ -1,0 +1,6 @@
+$nomention
+$clear[2]
+$deletecommand
+**links are not allowed.**
+
+$deleteIn[10s]
